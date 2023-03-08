@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 import {Component} from 'react'
 import {BsSearch} from 'react-icons/bs'
 import Loader from 'react-loader-spinner'
