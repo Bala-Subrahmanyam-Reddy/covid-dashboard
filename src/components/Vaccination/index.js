@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unused-state */
 import {Component} from 'react'
 import {AiFillHome} from 'react-icons/ai'
 import InputLabel from '@mui/material/InputLabel'
